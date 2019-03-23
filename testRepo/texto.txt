@@ -1,8 +1,7 @@
 Hello_World
 oh_hi_Mark
-<<<<<<< HEAD
 no_no,_my_name_is_Jeff
 new_line_in_document
-=======
 Trololo //edited by alechandro
->>>>>>> 9f3570fb2a6ddcf73025308e616abf43ba6c8090
+Darkness_is_our_friend
+
